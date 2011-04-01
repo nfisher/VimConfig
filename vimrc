@@ -7,6 +7,7 @@ set ai
 set hlsearch
 set ignorecase
 set incsearch
+set number
 set ruler
 set scrolloff=2
 set shiftwidth=2
