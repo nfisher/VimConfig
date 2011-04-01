@@ -1,5 +1,8 @@
 set nocp
 
+colorscheme solarized
+syntax on
+
 set ai
 set hlsearch
 set ignorecase
@@ -14,5 +17,3 @@ set spelllang=en_ca
 set tabstop=2
 set wildmode=longest,list
 
-colorscheme koehler
-syntax on
