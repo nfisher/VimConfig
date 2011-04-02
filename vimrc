@@ -1,6 +1,7 @@
 set nocp
 
 colorscheme solarized
+filetype plugin on
 syntax on
 
 set ai
